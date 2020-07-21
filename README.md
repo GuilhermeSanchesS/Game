@@ -16,7 +16,7 @@ Nesse jogo apresento a deusa onça Kianumaka-Manã conhecida como deusa de liber
 ## Referência
 - [Dicionario Tupi Guarani](https://www.dicionariotupiguarani.com.br/yanomami/)
 - [Tupiàriá](https://www.behance.net/gallery/29153593/Tupiaria)
-- [Codigo](http://bit.ly/unity2d-playlist)
+- [Código](http://bit.ly/unity2d-playlist)
 
 ## Limitações
 O programa apresenta algumas limitações referentes a movimentação do personagem. E a não conclusão da implementação.
