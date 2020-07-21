@@ -1,4 +1,4 @@
-# Yoasiwe
+# Yoasiwe - (Herói Ancestral)
 Este jogo e uma forma de resgate da cultura dos antepasados do nosso país sendo uma rica cultura não muito bem lembrada.
 Nossos índios possuem uma herança mitológica que permanece viva até hoje entre os milhares de nativos que habitam nosso território.
 Nesse jogo apresento a deusa onça Kianumaka-Manã conhecida como deusa de liberdade e possui um espírito-livre. Guerreira que carrega consigo a força das onças pintadas, também abençoa as batalhas dos índios.
