@@ -14,9 +14,9 @@ Nesse jogo apresento a deusa onça Kianumaka-Manã conhecida como deusa de liber
 |Sua missão proteger os animais e os índios de Anhangá |Anhangá é o deus do submundo ele castigar as pessoas que estão na floresta|
 
 ## Referência
-*[Dicionario Tupi Guarani](https://www.dicionariotupiguarani.com.br/yanomami/)
-*[Tupiàriá](https://www.behance.net/gallery/29153593/Tupiaria)
-*[Codigo](http://bit.ly/unity2d-playlist)
+- [Dicionario Tupi Guarani](https://www.dicionariotupiguarani.com.br/yanomami/)
+- [Tupiàriá](https://www.behance.net/gallery/29153593/Tupiaria)
+- [Codigo](http://bit.ly/unity2d-playlist)
 
 ## Limitações
 O programa apresenta algumas limitações referentes a movimentação do personagem. E a não conclusão da implementação.
