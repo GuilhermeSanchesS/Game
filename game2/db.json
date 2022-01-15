@@ -1,0 +1,17 @@
+{
+    "bg": "https://i.gifer.com/5StO.gif",
+    "title": " Blood Sugar game",
+    "description": "Teste os seus conhecimentos sobre sua alimentação e seu estilo de vida",
+    "winner": "https://i.giphy.com/media/26BkNituin1dca6GI/giphy.webp",
+    "theme": {
+      "colors": {
+        "primary": "#702613",
+        "secondary": "#00C853",
+        "mainBg": "#212121",
+        "contrastText": "#FFFFFF",
+        "wrong": "#FF5722",
+        "success": "#4CAF50"
+      },
+      "borderRadius": "4px"
+    }
+  }
